@@ -1,0 +1,5 @@
+{
+  "client_id": "<CONSUMER-KEY>",
+  "client_secret": "<COSUMER-SECRET>",
+  "redirect_uri": "http://127.0.0.1:3000/cb"
+}
